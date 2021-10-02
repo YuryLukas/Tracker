@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tracker</string>
+    <string name="dialog_title">Расстояние</string>
+    <string name="dialog_hint">Дистанция</string>
+    <string name="dialog_button_text">Начать</string>
+</resources>
